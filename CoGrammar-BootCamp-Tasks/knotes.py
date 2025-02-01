@@ -2,7 +2,7 @@
 # Programming with User-defined Functions
 # Written By Gower Campbell
 
-# To create your own functions to tackle complex tasks.
+# To create my own functions to tackle complex tasks.
 # Compute certain values using list elements and text file content.
 
 def add_one(x):  # Function called add_one has one parameter, x
@@ -67,7 +67,7 @@ print(result)  # Print 7 to the console.
 #   The result can be stored in a variable, used elsewhere, or printed to the console.
 
 # Calling a Function
-# Define all your functions so that you can call them later in the file.
+# Define all my functions so that I can call them later in the file.
 # Use the function name followed by the values you want to pass in as arguments.
 # The values passed to the function are referred to as arguments.
 
@@ -162,7 +162,7 @@ sum_result = adding(x, y)
 print(description + sum_result)  # Error: `description` is not defined globally.
 
 # DEFAULT VALUES
-# You can create default arguments for functions.
+# I can create default arguments for functions.
 
 def multiply(num1, num2=5):  # Default value of 5 for num2
     total = num1 * num2
