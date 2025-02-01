@@ -13,7 +13,8 @@ This repository documents my experiments with **user-defined functions** in Pyth
    - [Holiday Booking System](#holiday-booking-system)  
 3. [Bootcamp Notes from HyperionDev](#bootcamp-notes-from-hyperiondev)  
 4. [Key Takeaways](#key-takeaways)  
-5. [Future Plans](#future-plans)  
+5. [Future Plans](#future-plans)
+6. [Additional Points About User-Defined Functions](#Additional-Points)
 
 ---
 
@@ -72,12 +73,13 @@ This section contains my notes from the **HyperionDev Bootcamp**, [Here](CoGramm
 - Expand the **spy-themed codeword handler** with more missions, a scoring system, and a graphical interface.  
 
 ---
+## 6. Additional Points
+- Here are a few additional points about **user-defined functions** that could be highlighted [Here](Additional-Points.md)
+
+---
 
 ## Links to Detailed Explanations  
 - [Area Calculator](./area_calculator.md)  
 - [Spy-Themed Codeword Handler](./codeword_handler.md)  
 - [Holiday Booking System](./holiday_booking.md)  
 
----
-
-This updated **README.md** file now includes a dedicated section for **Bootcamp Notes from HyperionDev**, linking to your notes and reflections. It provides a comprehensive overview of your learning journey and makes it easy to navigate and understand the code. Let me know if you’d like further refinements! 🚀🕵️‍♂️
