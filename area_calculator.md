@@ -1,7 +1,3 @@
-Here’s a detailed breakdown of the `area_calculator.py` code in **`area_calculator.md`**, using your notes and posts to explain how **user-defined functions** help us write better code. This Markdown file is designed to be added to your repository and linked in the README.
-
----
-
 # Area Calculator: Breaking Down the Code  
 **Author:** Gower Campbell  
 
