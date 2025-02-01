@@ -168,10 +168,5 @@ def main():
 ---
 
 ## Links to Other Resources  
-- [GitHub Repository](#)  
-- [User-Defined Functions Overview](#)  
 - [Python Documentation on Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)  
 
----
-
-This `area_calculator.md` file provides a detailed explanation of the code, linking it to your notes and experiments. It demonstrates how **user-defined functions** help us write better code and can be extended for future improvements. Let me know if you’d like to add more details or examples! 🚀
