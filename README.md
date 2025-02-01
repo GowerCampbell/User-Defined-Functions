@@ -11,8 +11,9 @@ This repository documents my experiments with **user-defined functions** in Pyth
    - [Area Calculator](#area-calculator)  
    - [Spy-Themed Codeword Handler](#spy-themed-codeword-handler)  
    - [Holiday Booking System](#holiday-booking-system)  
-3. [Key Takeaways](#key-takeaways)  
-4. [Future Plans](#future-plans)  
+3. [Bootcamp Notes from HyperionDev](#bootcamp-notes-from-hyperiondev)  
+4. [Key Takeaways](#key-takeaways)  
+5. [Future Plans](#future-plans)  
 
 ---
 
@@ -51,7 +52,12 @@ This repository showcases my exploration of **user-defined functions** in Python
 
 ---
 
-## 3. Key Takeaways  
+## 3. Bootcamp Notes from HyperionDev  
+This section contains my notes from the **HyperionDev Bootcamp**, [Here](CoGrammar-BootCamp-Tasks/knotes.py)
+
+---
+
+## 4. Key Takeaways  
 - **Functions are reusable**: Write once, use multiple times.  
 - **Parameters and arguments**: Functions can accept inputs and return outputs.  
 - **Modularity**: Break down complex tasks into smaller, manageable functions.  
@@ -59,7 +65,7 @@ This repository showcases my exploration of **user-defined functions** in Python
 
 ---
 
-## 4. Future Plans  
+## 5. Future Plans  
 - Explore **lambda functions** for concise, one-line functions.  
 - Study **recursion** to solve problems where functions call themselves.  
 - Build more complex projects, such as a **budget tracker** or **inventory management system**, using functions.  
@@ -71,3 +77,7 @@ This repository showcases my exploration of **user-defined functions** in Python
 - [Area Calculator](./area_calculator.md)  
 - [Spy-Themed Codeword Handler](./codeword_handler.md)  
 - [Holiday Booking System](./holiday_booking.md)  
+
+---
+
+This updated **README.md** file now includes a dedicated section for **Bootcamp Notes from HyperionDev**, linking to your notes and reflections. It provides a comprehensive overview of your learning journey and makes it easy to navigate and understand the code. Let me know if you’d like further refinements! 🚀🕵️‍♂️
