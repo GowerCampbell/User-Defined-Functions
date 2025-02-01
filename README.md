@@ -1,7 +1,7 @@
 # Python User-Defined Functions: Experiments and Applications  
 **Author:** Gower Campbell  
 
-This repository documents my experiments with **user-defined functions** in Python, focusing on practical applications like calculating areas, handling codewords, and managing holiday bookings. Each experiment is explained in detail in separate `.md` files, with clear examples and links to the code.
+This repository documents my experiments with **user-defined functions** in Python, focusing on practical applications like calculating areas, handling spy-themed codewords, and managing holiday bookings. Each experiment is explained in detail in separate `.md` files, with clear examples and links to the code.
 
 ---
 
@@ -9,7 +9,7 @@ This repository documents my experiments with **user-defined functions** in Pyth
 1. [Introduction](#introduction)  
 2. [Experiments with Functions](#experiments-with-functions)  
    - [Area Calculator](#area-calculator)  
-   - [Codeword Handler](#codeword-handler)  
+   - [Spy-Themed Codeword Handler](#spy-themed-codeword-handler)  
    - [Holiday Booking System](#holiday-booking-system)  
 3. [Key Takeaways](#key-takeaways)  
 4. [Future Plans](#future-plans)  
@@ -17,7 +17,7 @@ This repository documents my experiments with **user-defined functions** in Pyth
 ---
 
 ## 1. Introduction  
-This repository showcases my exploration of **user-defined functions** in Python. Functions are reusable blocks of code that perform specific tasks, making programs modular, organized, and easier to debug. Here, I demonstrate how functions can be used in practical scenarios, such as calculating areas, handling codewords, and managing holiday bookings.
+This repository showcases my exploration of **user-defined functions** in Python. Functions are reusable blocks of code that perform specific tasks, making programs modular, organized, and easier to debug. Here, I demonstrate how functions can be used in practical scenarios, such as calculating areas, handling spy-themed codewords, and managing holiday bookings.
 
 ---
 
@@ -32,12 +32,13 @@ This repository showcases my exploration of **user-defined functions** in Python
 
 ---
 
-### Codeword Handler  
-- **Description**: A program that uses a dictionary to map codewords to specific functions.  
+### Spy-Themed Codeword Handler  
+- **Description**: A spy-themed program that uses a dictionary to map codewords to specific functions. Users enter codewords like "infiltrate," "extract," or "decrypt" to unlock secret missions or access hidden information.  
 - **Code**: [codeword_handler.py](./codeword_handler.py)  
 - **Explanation**: [codeword_handler.md](./codeword_handler.md)  
   - Understand how to use dictionaries to call functions dynamically.  
-  - Example: `codewords = {"go": handle_go, "ok": handle_ok}`.  
+  - Example: `codewords = {"infiltrate": handle_infiltrate, "extract": handle_extract}`.  
+  - Experience an immersive spy-themed interface for user interaction.  
 
 ---
 
@@ -54,7 +55,7 @@ This repository showcases my exploration of **user-defined functions** in Python
 - **Functions are reusable**: Write once, use multiple times.  
 - **Parameters and arguments**: Functions can accept inputs and return outputs.  
 - **Modularity**: Break down complex tasks into smaller, manageable functions.  
-- **Practical applications**: Functions are essential for real-world programs like calculators, booking systems, and more.  
+- **Practical applications**: Functions are essential for real-world programs like calculators, spy missions, and booking systems.  
 
 ---
 
@@ -62,10 +63,11 @@ This repository showcases my exploration of **user-defined functions** in Python
 - Explore **lambda functions** for concise, one-line functions.  
 - Study **recursion** to solve problems where functions call themselves.  
 - Build more complex projects, such as a **budget tracker** or **inventory management system**, using functions.  
+- Expand the **spy-themed codeword handler** with more missions, a scoring system, and a graphical interface.  
 
 ---
 
 ## Links to Detailed Explanations  
 - [Area Calculator](./area_calculator.md)  
-- [Codeword Handler](./codeword_handler.md)  
+- [Spy-Themed Codeword Handler](./codeword_handler.md)  
 - [Holiday Booking System](./holiday_booking.md)  
