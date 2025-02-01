@@ -42,9 +42,9 @@ This repository showcases my exploration of **user-defined functions** in Python
 
 ---
 
-### Holiday Booking System  
+### Holiday Booking System (CodeGrammar Task Submission)
 - **Description**: A travel agency program that uses functions to manage holiday bookings, including flights, hotels, and car rentals.  
-- **Code**: [holiday_booking.py](./holiday_booking.py)  
+- **Code**: [holiday_booking.py](CoGrammar-BootCamp-Tasks/holiday_booking.py)  
 - **Explanation**: [holiday_booking.md](./holiday_booking.md)  
   - Explore functions like `book_holiday()`, `calculate_cost()`, and `display_options()`.  
   - Learn how to handle user input and display booking summaries.  
